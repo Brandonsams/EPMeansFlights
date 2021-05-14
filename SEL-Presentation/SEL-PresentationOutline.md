@@ -16,7 +16,13 @@
 ## Preview
 
 - Examination of the generalized EP-Means method
+    - K-Means clustering
+    - Declaring Initial Clusters using K-Means++
+    - Translation to EP-Means
 - Flight Duration Dataset
+    - Cleaning
+    - Exploration
 - Apply EP-Means to the Flight Duration Dataset
+- Examine Results
 
 ## Review
